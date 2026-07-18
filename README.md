@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashish+Kathane;AI%2FML+Engineer;Agentic+AI+%26+RAG+Systems+Builder;LangChain+%C2%B7+Vector+DBs+%C2%B7+LLMs" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:5E5CE6&height=200&section=header&text=Ashish%20Kathane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Agentic%20AI%20%26%20LLM%20Systems&descAlignY=58&descSize=18" width="100%" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+%2B+RAG+Systems;LangChain+%C2%B7+Vector+DBs+%C2%B7+LLM+Orchestration;Always+shipping+something+new" alt="Typing SVG" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ashishkathane599&label=Profile%20Views&color=0A84FF&style=flat-square" />
 <img src="https://img.shields.io/github/followers/ashishkathane599?label=Followers&style=flat-square&color=5E5CE6" />
@@ -18,87 +20,115 @@
 
 <br><br>
 
-<a href="#about">About</a> ·
-<a href="#skills">Skills</a> ·
-<a href="#projects">Projects</a> ·
-<a href="#experience">Experience</a> ·
-<a href="#certifications">Certifications</a> ·
+<a href="#about">About</a> &nbsp;·&nbsp;
+<a href="#skills">Skills</a> &nbsp;·&nbsp;
+<a href="#projects">Projects</a> &nbsp;·&nbsp;
+<a href="#experience">Experience</a> &nbsp;·&nbsp;
+<a href="#certifications">Certifications</a> &nbsp;·&nbsp;
 <a href="#github-stats">Stats</a>
 
 </div>
 
 <br>
 
-## About
+## 🧭 About
 
 Aspiring AI/ML Engineer building Agentic AI and LLM-powered applications — Retrieval-Augmented Generation (RAG) pipelines, LangChain workflows, and REST APIs using Django, Flask, and FastAPI. Completed an AI Engineering internship at Infosys Springboard, delivering a fraud-detection system end-to-end. Focused on Python, machine learning, vector databases, and speech-to-text systems, with a growing foundation across the full development lifecycle.
 
-- 🎓 B.Tech, Artificial Intelligence — J D College of Engineering & Management, Nagpur (CGPA 8.5/10)
-- 📍 Nagpur, Maharashtra, India
-- 🔭 Currently building agentic AI systems with LangChain + RAG
-- 🌱 Currently exploring multi-agent frameworks, LlamaIndex, and production LLM deployment
-- 📫 kathaneashish599@gmail.com
+<table>
+<tr>
+<td>🎓</td><td><b>Education</b></td><td>B.Tech, Artificial Intelligence — J D College of Engineering & Management, Nagpur (CGPA 8.5/10)</td>
+</tr>
+<tr>
+<td>📍</td><td><b>Location</b></td><td>Nagpur, Maharashtra, India</td>
+</tr>
+<tr>
+<td>🔭</td><td><b>Building</b></td><td>Agentic AI systems with LangChain + RAG</td>
+</tr>
+<tr>
+<td>🌱</td><td><b>Exploring</b></td><td>Multi-agent frameworks, LlamaIndex, production LLM deployment</td>
+</tr>
+<tr>
+<td>📫</td><td><b>Email</b></td><td>kathaneashish599@gmail.com</td>
+</tr>
+</table>
 
 <br>
 
-## Skills
+## 🛠️ Skills
 
 <div align="center">
 
-**Language**
-
+<sub><b>LANGUAGE</b></sub>
+<br>
 <img src="https://skillicons.dev/icons?i=python" />
 
-**AI / ML / GenAI**
+<br><br>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_ASR-2C2C2C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0A84FF?style=for-the-badge)
+<sub><b>AI · ML · GENAI</b></sub>
+<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Whisper_ASR-2C2C2C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-0A84FF?style=for-the-badge" />
 
-**ML & Data**
+<br><br>
 
+<sub><b>ML & DATA</b></sub>
+<br>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy" />
 
-**Computer Vision**
+<br><br>
 
+<sub><b>COMPUTER VISION</b></sub>
+<br>
 <img src="https://skillicons.dev/icons?i=opencv" />
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4B8BBE?style=for-the-badge)
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Tesseract_OCR-4B8BBE?style=for-the-badge" />
 
-**Vector Databases**
+<br><br>
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+<sub><b>VECTOR DATABASES</b></sub>
+<br>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
 
-**Backend & APIs**
+<br><br>
 
+<sub><b>BACKEND & APIS</b></sub>
+<br>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django" />
 
-**Databases**
+<br><br>
 
+<sub><b>DATABASES</b></sub>
+<br>
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 
-**Tools & Deployment**
+<br><br>
 
+<sub><b>TOOLS & DEPLOYMENT</b></sub>
+<br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,render" />
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
 
 </div>
 
 <br>
 
-## Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [Meeting Mind — AI Meeting Assistant](https://github.com/ashishkathane599)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:1C3C3C&height=90&text=Meeting%20Mind&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" />
+
+**🎙️ [Meeting Mind — AI Meeting Assistant](https://github.com/ashishkathane599)**
 Transcribes audio with Whisper ASR, summarizes with a LangChain LCEL chain (Mistral API), and enables conversational Q&A over meeting transcripts via a ChromaDB RAG layer. Streamlit UI with PDF/TXT export.
 
 `Python` `LangChain` `Whisper` `ChromaDB` `Streamlit`
@@ -106,7 +136,9 @@ Transcribes audio with Whisper ASR, summarizes with a LangChain LCEL chain (Mist
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [AI Fraud Detection & Identity Verification](https://github.com/ashishkathane599)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5E5CE6,100:412991&height=90&text=Fraud%20Detection&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" />
+
+**🔐 [AI Fraud Detection & Identity Verification](https://github.com/ashishkathane599)**
 OCR + CNN pipeline extracting structured identity fields from scanned documents. CNN authenticity classifier (98% accuracy) and Random Forest fraud model (94% accuracy) with facial-landmark cross-verification.
 
 `Python` `OpenCV` `Tesseract OCR` `CNN` `Random Forest`
@@ -116,7 +148,9 @@ OCR + CNN pipeline extracting structured identity fields from scanned documents.
 <tr>
 <td width="50%" valign="top">
 
-### 📺 [YouTube RAG Chatbot](https://github.com/ashishkathane599)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7000,100:D14836&height=90&text=YouTube%20RAG%20Chatbot&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" />
+
+**📺 [YouTube RAG Chatbot](https://github.com/ashishkathane599)**
 Full-stack RAG chatbot for natural-language Q&A over any YouTube video — transcript extraction, semantic chunking, FAISS indexing, and a local LLaMA 3.1 8B backend with a multi-user architecture.
 
 `FastAPI` `LangChain` `FAISS` `Ollama`
@@ -124,7 +158,9 @@ Full-stack RAG chatbot for natural-language Q&A over any YouTube video — trans
 </td>
 <td width="50%" valign="top">
 
-### 🖐️ [NOVA — Gesture-Based HCI System](https://github.com/ashishkathane599)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0097A7,100:0A84FF&height=90&text=NOVA%20%C2%B7%20Gesture%20HCI&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%" />
+
+**🖐️ [NOVA — Gesture-Based HCI System](https://github.com/ashishkathane599)**
 Real-time hand and face landmark detection classifying 5+ gestures at over 95% accuracy, deployed behind a Django REST API dashboard for hands-free, touchless computer control.
 
 `Python` `MediaPipe` `OpenCV` `Django`
@@ -134,12 +170,12 @@ Real-time hand and face landmark detection classifying 5+ gestures at over 95% a
 </table>
 
 <details>
-<summary><b>Show more projects</b></summary>
+<summary><b>📁 Show more projects</b></summary>
 <br>
 
-- **RAG-Based PDF Chatbot** — `LangChain` `ChromaDB` `FastAPI` — answers questions from uploaded PDFs using retrieval-augmented generation over embeddings.
-- **BERT Sentiment Analysis** — `HuggingFace` `PyTorch` `NLP` — fine-tuned BERT for multi-class sentiment classification, evaluated with precision, recall, and F1-score.
-- **Customer Churn Prediction — End-to-End ML Pipeline** — `scikit-learn` `pandas` — production-style pipeline with GridSearchCV tuning (+12% accuracy) and Pickle-serialized deployment.
+- **📄 RAG-Based PDF Chatbot** — `LangChain` `ChromaDB` `FastAPI` — answers questions from uploaded PDFs using retrieval-augmented generation over embeddings.
+- **💬 BERT Sentiment Analysis** — `HuggingFace` `PyTorch` `NLP` — fine-tuned BERT for multi-class sentiment classification, evaluated with precision, recall, and F1-score.
+- **📉 Customer Churn Prediction — End-to-End ML Pipeline** — `scikit-learn` `pandas` — production-style pipeline with GridSearchCV tuning (+12% accuracy) and Pickle-serialized deployment.
 
 </details>
 
@@ -147,7 +183,7 @@ Real-time hand and face landmark detection classifying 5+ gestures at over 95% a
 
 <br>
 
-## Experience
+## 💼 Experience
 
 | Role | Company | Duration |
 |---|---|---|
@@ -156,7 +192,7 @@ Real-time hand and face landmark detection classifying 5+ gestures at over 95% a
 
 <br>
 
-## Certifications
+## 🏆 Certifications
 
 - 🎓 IBM Data Science Professional Certificate — Coursera
 - 🔗 LangChain for LLM Application Development — DeepLearning.AI
@@ -166,25 +202,31 @@ Real-time hand and face landmark detection classifying 5+ gestures at over 95% a
 
 <br>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishkathane599&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkathane599&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkathane599&theme=tokyonight&hide_border=true" />
+
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ashishkathane599&theme=algolia&no-frame=true&row=1&column=6" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkathane599&theme=tokyo-night&hide_border=true" />
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkathane599&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 <!--
-Optional: animated contribution snake (the green squares "eat" your commit graph).
+Optional: animated contribution snake (green squares "eat" your commit graph).
 Set it up with this GitHub Action: https://github.com/Platane/snk#-github-action
-Then embed: <img src="https://raw.githubusercontent.com/ashishkathane599/ashishkathane599/output/github-contribution-grid-snake.svg" />
+Then embed: <img src="https://raw.githubusercontent.com/ashishkathane599/ashishkathane599/output/github-contribution-grid-snake.svg" width="100%" />
 -->
 
 <br>
@@ -194,5 +236,9 @@ Then embed: <img src="https://raw.githubusercontent.com/ashishkathane599/ashishk
 🌐 Full portfolio → <a href="https://frosted-ai-space-1.onrender.com/"><b>frosted-ai-space-1.onrender.com</b></a>
 
 Open to AI/ML internships, collaborations, and interesting problems — let's connect.
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E5CE6,100:0A84FF&height=100&section=footer" width="100%" />
 
 </div>
