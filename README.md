@@ -2,184 +2,108 @@
 
 # Ashish Kathane
 
-### AI/ML Engineer • Agentic AI • LLM Systems
+**AI/ML Engineer** — Agentic AI & LLM Systems
 
-<p>
-<a href="https://frosted-ai-space-1.onrender.com/">Portfolio</a> •
-<a href="https://linkedin.com/in/ashish-kathane-48bb3726a">LinkedIn</a> •
-<a href="mailto:kathaneashish599@gmail.com">Email</a> •
-<a href="YOUR_LEETCODE">LeetCode</a>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1500&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;Developing+LLM+Applications;Retrieval-Augmented+Generation+(RAG);FastAPI+%7C+LangChain+%7C+PyTorch" />
+[Portfolio](https://frosted-ai-space-1.onrender.com/) · [LinkedIn](https://linkedin.com/in/ashish-kathane-48bb3726a) · [Email](mailto:kathaneashish599@gmail.com) · [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME) · [Instagram](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
 
 </div>
 
----
+<br>
 
-# About
+## About
 
-I am an AI/ML Engineer passionate about building production-ready AI applications powered by Large Language Models.
+AI/ML engineering student building Agentic AI and LLM-powered applications — Retrieval-Augmented Generation (RAG) pipelines, LangChain workflows, and REST APIs using Django, Flask, and FastAPI. Completed an AI Engineering internship at Infosys Springboard, delivering a fraud-detection system end-to-end. Focused on Python, machine learning, vector databases, and speech-to-text systems, with a growing foundation across the full development lifecycle.
 
-My primary interests include
+- B.Tech, Artificial Intelligence — J D College of Engineering & Management, Nagpur (CGPA 8.5/10)
+- Based in Nagpur, India
+- kathaneashish599@gmail.com
 
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- LLM Applications
-- Machine Learning
-- Computer Vision
+<br>
 
-Currently pursuing **B.Tech in Artificial Intelligence** at **J D College of Engineering & Management**.
+## Skills
 
----
+**Language:** Python, SQL
 
-# Tech Stack
+**AI / ML / GenAI:** LangChain (LCEL), Retrieval-Augmented Generation, HuggingFace Transformers, OpenAI API, Mistral API, Ollama (LLaMA 3.1), Whisper ASR, Prompt Engineering, Fine-Tuning
 
-### Languages
+**ML & Data:** PyTorch, Scikit-learn, XGBoost, pandas, NumPy
 
-`Python` `SQL`
+**Computer Vision:** OpenCV, MediaPipe, Tesseract OCR
 
-### AI / LLM
+**Vector Databases:** ChromaDB, FAISS
 
-`LangChain`
-`LangGraph`
-`OpenAI`
-`Mistral`
-`Ollama`
-`Llama 3`
-`Whisper`
-`Prompt Engineering`
+**Backend & APIs:** FastAPI, Flask, Django, REST APIs
 
-### Machine Learning
+**Databases:** PostgreSQL, SQLite
 
-`PyTorch`
-`Scikit-Learn`
-`XGBoost`
-`Pandas`
-`NumPy`
+**Tools & Deployment:** Docker, Git, Streamlit, MLflow, Postman, Vercel, Render
 
-### Computer Vision
+<br>
 
-`OpenCV`
-`MediaPipe`
-`Tesseract OCR`
+## Projects
 
-### Backend
+**[Meeting Mind — AI Meeting Assistant](https://github.com/ashishkathane599)**
+End-to-end audio intelligence pipeline: Whisper ASR transcription, a LangChain LCEL summarization chain (Mistral API), and a ChromaDB RAG layer for conversational Q&A over meeting transcripts. Streamlit UI with PDF/TXT export.
+`Python` `LangChain` `Whisper` `ChromaDB` `Streamlit`
 
-`FastAPI`
-`Flask`
-`Django`
+**[AI Fraud Detection & Identity Verification System](https://github.com/ashishkathane599)**
+OCR + CNN pipeline extracting structured identity fields from scanned documents. CNN authenticity classifier (98% accuracy) and Random Forest fraud model (94% accuracy) with facial-landmark cross-verification.
+`Python` `OpenCV` `Tesseract OCR` `CNN` `Random Forest`
 
-### Databases
+**[YouTube RAG Chatbot](https://github.com/ashishkathane599)**
+Full-stack RAG chatbot for natural-language Q&A over any YouTube video — transcript extraction, semantic chunking, FAISS indexing, and a local LLaMA 3.1 8B inference backend with a multi-user architecture.
+`FastAPI` `LangChain` `FAISS` `Ollama`
 
-`PostgreSQL`
-`SQLite`
-`FAISS`
-`ChromaDB`
+**[NOVA — Gesture-Based HCI System](https://github.com/ashishkathane599)**
+Real-time hand and face landmark detection classifying 5+ gestures at over 95% accuracy, deployed behind a Django REST API dashboard for hands-free, touchless computer control.
+`Python` `MediaPipe` `OpenCV` `Django`
 
-### Tools
+**[RAG-Based PDF Chatbot](https://github.com/ashishkathane599)**
+Chatbot that answers questions from uploaded PDFs using retrieval-augmented generation over embeddings, with a FastAPI backend and Streamlit frontend.
+`LangChain` `ChromaDB` `FastAPI`
 
-`Docker`
-`Git`
-`Streamlit`
-`MLflow`
-`Postman`
-`Render`
-`Vercel`
+**[BERT Sentiment Analysis](https://github.com/ashishkathane599)**
+Fine-tuned BERT for multi-class sentiment classification on customer reviews, evaluated with precision, recall, and F1-score.
+`HuggingFace` `PyTorch` `NLP`
 
----
+**[Customer Churn Prediction — End-to-End ML Pipeline](https://github.com/ashishkathane599)**
+Production-style scikit-learn pipeline (imputation, encoding, scaling, feature selection) with GridSearchCV tuning (+12% accuracy) and Pickle-serialized deployment.
+`scikit-learn` `pandas`
 
-# Featured Projects
+<br>
 
-### Meeting Mind
+## Experience
 
-AI Meeting Assistant using Whisper, LangChain, ChromaDB and Mistral for transcription, summarization and RAG chat.
+| Role | Company | Duration |
+|---|---|---|
+| AI Engineering Intern | Infosys Springboard | Oct 2025 – Dec 2025 |
+| AI Engineer Intern (Freelance / Personal Projects) | Remote | Jan 2025 – Present |
 
-**Tech**
+<br>
 
-`LangChain`
-`Whisper`
-`ChromaDB`
-`Streamlit`
+## Certifications
 
----
+- IBM Data Science Professional Certificate — Coursera
+- LangChain for LLM Application Development — DeepLearning.AI
+- Machine Learning with Python — Kaggle
+- Python Programming — Kaggle
+- AI Engineering Program — Infosys Springboard
 
-### YouTube RAG Chatbot
+<br>
 
-Multi-user RAG chatbot capable of answering questions from any YouTube video using semantic retrieval and local Llama 3.1.
-
-**Tech**
-
-`FastAPI`
-`LangChain`
-`FAISS`
-`Ollama`
-
----
-
-### AI Fraud Detection System
-
-Identity verification platform combining OCR, CNNs and fraud detection models.
-
-**Tech**
-
-`OpenCV`
-`CNN`
-`Random Forest`
-`OCR`
-
----
-
-### NOVA
-
-Gesture-based Human Computer Interaction system using MediaPipe and OpenCV.
-
----
-
-# GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishkathane599&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkathane599&layout=compact&hide_border=true&theme=transparent"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishkathane599&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkathane599&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkathane599&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkathane599&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="https://frosted-ai-space-1.onrender.com/">Portfolio</a> •
-<a href="https://linkedin.com/in/ashish-kathane-48bb3726a">LinkedIn</a> •
-<a href="mailto:kathaneashish599@gmail.com">Email</a>
-
-</p>
-
----
-
-<div align="center">
-
-*"Building intelligent systems that solve real-world problems with AI."*
+Open to AI/ML internships and collaborations — feel free to reach out.
 
 </div>
